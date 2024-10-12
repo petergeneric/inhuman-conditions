@@ -1,0 +1,38 @@
+Based on Inhuman Conditions, see https://robots.management for more information, and to buy a physical copy of the game
+This repository contains a transcription of the print and play PDFs for easier online play, and for building webapps to faciliate online play
+
+
+CREDITS & LICENSE
+Inhuman Conditions was created by Tommy Maranges and Cory O’Brien. Art for Inhuman Conditions is by Mac Schubert.
+Additional typesetting and layout by Sam Bertin & Tommy Maranges.
+
+Based on Inhuman Conditions Print & Play
+
+Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter
+to Creative Commons, PO Box 1866, Mountain View, CA 94042,
+USA.
+
+YOU ARE FREE TO:
+• Share — copy and redistribute the game in any medium or
+format
+• Adapt — remix, transform, and build upon the game
+UNDER THE FOLLOWING TERMS:
+• Attribution — If you make something using our game, you
+need to give us credit and link back to us, and you need to
+explain what you changed.
+• Non-Commercial — You can’t use our game to make
+money.
+• Share Alike — If you remix, transform, or
+build upon our game, you have to release your
+work under the same Creative Commons license
+that we use (BY-NC-SA 4.0).
+• No additional restrictions — You can’t apply legal terms or
+technological measures to your work that legally restrict
+others from doing anything our license allows. That
+means you can’t submit anything using our
+game to any app store without our approval.
+You can learn more about Creative Commons at
+CreativeCommons.org. (Our license is available
+at https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
